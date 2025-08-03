@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MyPotfolio", "..\..\Users\Gajendra Nagle\Desktop\MyPotfolio\", "{E9B9B527-B6B3-2E31-84C9-845BDCBBBF5B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55069"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\MyPotfolio\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55069\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55069"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\MyPotfolio\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55069\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55069"
+		SlnRelativePath = "..\..\..\Desktop\MyPotfolio\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9B9B527-B6B3-2E31-84C9-845BDCBBBF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B9B527-B6B3-2E31-84C9-845BDCBBBF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D97F4D8-97A8-4460-BD69-ED6640ACB341}
+	EndGlobalSection
+EndGlobal
