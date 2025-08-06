@@ -3,7 +3,8 @@
   "WorkspaceRootPath": "C:\\GitHub\\My_Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9B9B527-B6B3-2E31-84C9-845BDCBBBF5B}|C:\\Users\\Gajendra Nagle\\Desktop\\MyPotfolio|c:\\users\\gajendra nagle\\desktop\\mypotfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E9B9B527-B6B3-2E31-84C9-845BDCBBBF5B}|C:\\GitHub\\My_Portfolio|c:\\github\\my_portfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9B9B527-B6B3-2E31-84C9-845BDCBBBF5B}|C:\\GitHub\\My_Portfolio|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Gajendra Nagle\\Desktop\\MyPotfolio\\index.html",
-              "RelativeDocumentMoniker": "..\\..\\Users\\Gajendra Nagle\\Desktop\\MyPotfolio\\index.html",
-              "ToolTip": "C:\\Users\\Gajendra Nagle\\Desktop\\MyPotfolio\\index.html",
-              "RelativeToolTip": "..\\..\\Users\\Gajendra Nagle\\Desktop\\MyPotfolio\\index.html",
-              "ViewState": "AgIAAAEBAAAAAAAAAAAAAAwBAAAsAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\GitHub\\My_Portfolio\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\GitHub\\My_Portfolio\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAAAFABAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-08-03T10:51:59.994Z",
+              "WhenOpened": "2025-08-03T11:33:17.818Z",
               "EditorCaption": ""
             }
           ]
